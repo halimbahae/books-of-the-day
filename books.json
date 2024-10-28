@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "category": "Philosophy",
+        "description": "A guide to spiritual enlightenment through living in the present."
+    },
+    {
+        "id": 2,
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "category": "Strategy",
+        "description": "An ancient guide on warfare and strategy applicable to business and personal growth."
+    },
+    {
+        "id": 3,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Self-Improvement",
+        "description": "A practical guide on how small changes lead to remarkable results."
+    }
+    // Continue adding books until you reach 365...
+]
