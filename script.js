@@ -1,6 +1,6 @@
 async function fetchBookOfTheDay() {
     try {
-        const response = await fetch('book_100.json'); // Ensure the path to your JSON file is correct
+        const response = await fetch('book_100.json'); //    
         const books = await response.json();
 
         if (!Array.isArray(books) || books.length === 0) {
